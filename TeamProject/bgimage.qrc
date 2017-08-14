@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Login.png</file>
+        <file>images/woodbackground.png</file>
+        <file>images/woodbutton.png</file>
+        <file>bgimage.qrc</file>
+        <file>images/logo.png</file>
+        <file>images/设置1.png</file>
+        <file>images/功能选择背景.jpg</file>
+        <file>images/功能选择.jpg</file>
+        <file>images/7205452_153152401331_2.jpg</file>
+        <file>images/Help.bmp</file>
+        <file>images/menu.gif</file>
+        <file>images/edit.gif</file>
+        <file>images/14072985.png</file>
+        <file>images/user-red.png</file>
+        <file>images/btn.png</file>
+        <file>images/button.png</file>
+        <file>images/register.png</file>
+        <file>images/application256.png</file>
+        <file>images/close256.png</file>
+        <file>images/sign-info-icon.png</file>
+        <file>images/regis.png</file>
+        <file>images/纯色背景.png</file>
+        <file>images/back.png</file>
+        <file>images/f1.png</file>
+    </qresource>
+</RCC>

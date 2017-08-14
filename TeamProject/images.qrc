@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Login.png</file>
+        <file>logo.png</file>
+        <file>woodbackground.png</file>
+        <file>woodbutton.png</file>
+        <file>功能选择.jpg</file>
+        <file>功能选择背景.jpg</file>
+        <file>设置1.png</file>
+    </qresource>
+</RCC>
